@@ -1,0 +1,2 @@
+D:\MyProject\Node.js\SampleREST\SampleREST\obj\Debug\SampleREST.njsproj.CoreCompileInputs.cache
+D:\MyProject\Node.js\SampleREST\SampleREST\bin\Microsoft.NodejsTools.WebRole.dll
