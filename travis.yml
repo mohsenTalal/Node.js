@@ -1,4 +1,6 @@
+sudo: false
 language: node_js
-rvm:
- - 2.2
- - jruby
+node_js:
+  - '4'
+  - '6'
+  - '8'
